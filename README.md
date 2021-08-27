@@ -1,12 +1,12 @@
 <h1 align="center">Hola visitante 👋, soy Josue</h1>
-<h3 align="center">Si estas aqui, quiere decir que buscas saber quien soy, ¿verdad? 😳</h3>
+<h3 align="center">Si estas aquí, quiere decir que buscas saber acerca de mí, ¿verdad? 😳</h3>
 
-- 📖 Actualmente estoy aprendiendo y/o mejorando acerca de **Python y JavaScript**, ademas de **Django/Flask y React**. 
+- 📖 Actualmente estoy aprendiendo y/o mejorando acerca de **Python y JavaScript**, además de **Django/Flask y React**. 
 
 - 📣 Te presento mi **[Github Page](https://nvipi.github.io/)** 
-  -  ⚠️ ¡Cuidado! Me encuentro trabajando en crear proyectos para aplicar lo que aprendo, pero no hay nada que ver aun, que lastima 😢, pero aun asi, puedes ver mi pagina de git para conocer que puede haber, es solo un click..
+  -  ⚠️ ¡Cuidado! Me encuentro trabajando en crear proyectos para aplicar lo que aprendo, pero no hay nada que ver aun, que lastima 😢, pero aun así, puedes ver mi página de git para conocer que puede haber, es solo un click..
 
-- 💬 Cualquierda duda, solo hablame, intentare responder lo mas rapido que mi internet lo permita. 😔
+- 💬 Cualquier duda solo háblame, intentare responder lo más rápido que mi internet lo permita. 😔
 
 
 
