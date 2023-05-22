@@ -8,7 +8,8 @@
 
 - 💬 Si tienes alguna pregunta, no dudes en comunicarte conmigo. Haré todo lo posible por responder lo más rápido posible.
 
-<h3 align="left">Ahhh.. ¿Pero mis conocimientos? ¡brillan con una luz modesta pero encantadora! 🌟✨ Aquí encontrarás mi colección de superpoderes en el mundo de la programación:¡No te preocupes, no soy un maestro Jedi (aún), pero estoy trabajando en ello! Así que si necesitas una dosis de habilidades informáticas con un toque de humor, ¡estás en el lugar correcto! 😄💻</h3>
+- Ahhh.. ¿Pero mis conocimientos? ¡brillan con una luz modesta pero encantadora! 🌟✨ Aquí encontrarás mi colección de superpoderes en el mundo de la programación:¡No te preocupes, no soy un maestro Jedi (aún), pero estoy trabajando en ello! Así que si necesitas una dosis de habilidades informáticas con un toque de humor, ¡estás en el lugar correcto! 😄💻
+
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -51,4 +52,4 @@
     </a> 
 </p>
 
-<h3 align="left">¡No te preocupes, no soy un maestro Jedi (aún), pero estoy trabajando en ello! Así que si necesitas una dosis de habilidades informáticas con un ambiente agradable, ¡estás en el lugar correcto! 😄💻</h3>
+- ¡No te preocupes, no soy un maestro Jedi (aún), pero estoy trabajando en ello! Así que si necesitas una dosis de habilidades informáticas con un ambiente agradable, ¡estás en el lugar correcto! 😄💻
