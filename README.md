@@ -8,7 +8,7 @@
 
 - 💬 Si tienes alguna pregunta, no dudes en comunicarte conmigo. Haré todo lo posible por responder lo más rápido posible.
 
-- Ahhh.. ¿Pero mis conocimientos? ¡brillan con una luz modesta pero encantadora! 🌟✨ Aquí encontrarás mi colección de superpoderes en el mundo de la programación:¡No te preocupes, no soy un maestro Jedi (aún), pero estoy trabajando en ello! Así que si necesitas una dosis de habilidades informáticas con un toque de humor, ¡estás en el lugar correcto! 😄💻
+- Ahhh.. ¿Pero mis conocimientos? ¡brillan con una luz modesta pero encantadora! 🌟✨ Aquí encontrarás mi colección de superpoderes en el mundo de la programación:
 
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
